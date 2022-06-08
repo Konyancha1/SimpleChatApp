@@ -1,8 +1,8 @@
-﻿# SimpleChatApp
+# SimpleChatApp
 
 ### This is a simple chat app created using
-- React.js
-- Node.js
+- Reactjs
+- Nodejs
 - Socket.io
 
 ### To run this project
